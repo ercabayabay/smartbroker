@@ -24,6 +24,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+title: Oversight
+app_dev: Link Malloc, Inc.
+app_dev_link: https://linkmalloc.com
+
 # Build settings
 markdown: kramdown
 theme: minima
